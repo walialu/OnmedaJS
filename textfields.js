@@ -1,0 +1,4 @@
+/**
+ * @namespace
+ */
+window.onmeda.textfields = {};
